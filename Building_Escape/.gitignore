@@ -83,7 +83,3 @@ Content/StarterContent/*
 VSCode Files
 /.vscode/*
 BuildingEscape.code-workspace
-
-/Building_Escape/Binaries
-/Building_Escape/Intermediate
-/Building_Escape/Saved
