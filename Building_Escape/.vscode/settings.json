@@ -2,6 +2,7 @@
 	"files.exclude": {
 		"X:/repos/Unreal02_BuildingEscape/Building_Escape/.vscode": true,
 		"X:/repos/Unreal02_BuildingEscape/Building_Escape/Content": true,
-		"X:/repos/Unreal02_BuildingEscape/Building_Escape/Intermediate": true
+		"X:/repos/Unreal02_BuildingEscape/Building_Escape/Intermediate": true,
+		"X:/repos/Unreal02_BuildingEscape/Building_Escape/Saved": true
 	}
 }
